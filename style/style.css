@@ -38,16 +38,16 @@ nav a{text-decoration:none ;
     
     height: 800px;
 }
-.divs{
+/* .divs{
     border: 3px solid white;
-    /* background-color: lightgrey; */
+    
     width: 22%;
     float: left;
     margin-right: 10px;
     margin-bottom:20px ;
     height: 100%;
     padding: 5px;
-}
+}  */
 
 #div1{
     border: 1px solid gray;
@@ -73,7 +73,7 @@ margin-right: 20px;}
 #div2{
     float: left;
     border: 1px solid black;
-    width: 78%;
+    width: 77%;
     background-color: cadetblue;
     height: 100%;
     margin-top: 1px;
