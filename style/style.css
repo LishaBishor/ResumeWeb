@@ -71,7 +71,7 @@ margin-right: 20px;}
 }
 #div1 h3{border: 1px solid white;}
 #div2{
-    float: left;
+    float: right;
     border: 1px solid black;
     width: 78%;
     background-color: cadetblue;
